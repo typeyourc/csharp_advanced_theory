@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_List", "Lesson7_Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用3", "测试专用3\测试专用3.csproj", "{EBCB632C-2F9F-49DF-AC18-6EF73899B3CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8_Dictionary", "Lesson8_Dictionary\Lesson8_Dictionary.csproj", "{30528AD8-EB42-420E-A67E-9DA4E9D3F421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用4", "测试专用4\测试专用4.csproj", "{DEC42009-84D0-4EBB-9065-4A797D479D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{EBCB632C-2F9F-49DF-AC18-6EF73899B3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCB632C-2F9F-49DF-AC18-6EF73899B3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBCB632C-2F9F-49DF-AC18-6EF73899B3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30528AD8-EB42-420E-A67E-9DA4E9D3F421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30528AD8-EB42-420E-A67E-9DA4E9D3F421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30528AD8-EB42-420E-A67E-9DA4E9D3F421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30528AD8-EB42-420E-A67E-9DA4E9D3F421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
