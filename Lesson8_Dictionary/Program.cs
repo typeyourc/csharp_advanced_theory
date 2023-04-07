@@ -22,10 +22,7 @@
                 Console.Write(item);
                 Console.WriteLine(dictionary2[item]);
             }
-            //int aASCII = Convert.ToInt32('a'); 
-            //int zASCII = Convert.ToInt32('z');
-            //int AASCII = Convert.ToInt32('A');
-            //int ZASCII = Convert.ToInt32('Z');
+
             Dictionary<int, char> dictionary3 = new Dictionary<int, char>();
             int k = 0;
             int flag1;

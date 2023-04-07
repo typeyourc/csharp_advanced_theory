@@ -11,21 +11,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson2_Stack", "Lesson2_St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3_Queue", "Lesson3_Queue\Lesson3_Queue.csproj", "{CFAA9E62-4D3A-45E2-8BDE-C714F093901F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4_Hashtable", "Lesson4_Hashtable\Lesson4_Hashtable.csproj", "{76DDAF5E-47F0-4E04-9725-2C99D0CA488B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4_Hashtable", "Lesson4_Hashtable\Lesson4_Hashtable.csproj", "{76DDAF5E-47F0-4E04-9725-2C99D0CA488B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_泛型", "Lesson5_泛型\Lesson5_泛型.csproj", "{6F53A685-2951-4CB1-9330-60C2A16A0F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5_泛型", "Lesson5_泛型\Lesson5_泛型.csproj", "{6F53A685-2951-4CB1-9330-60C2A16A0F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_泛型约束", "Lesson6_泛型约束\Lesson6_泛型约束.csproj", "{FD1A70C6-E950-4CB6-94B9-1091959B00D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_泛型约束", "Lesson6_泛型约束\Lesson6_泛型约束.csproj", "{FD1A70C6-E950-4CB6-94B9-1091959B00D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用2", "测试专用2\测试专用2.csproj", "{31A47845-D01C-4D97-91AF-7F9F4D1BDFB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试专用2", "测试专用2\测试专用2.csproj", "{31A47845-D01C-4D97-91AF-7F9F4D1BDFB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_List", "Lesson7_List\Lesson7_List.csproj", "{6119C5E1-B5DE-4A28-A013-C8B32D6A3DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson7_List", "Lesson7_List\Lesson7_List.csproj", "{6119C5E1-B5DE-4A28-A013-C8B32D6A3DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用3", "测试专用3\测试专用3.csproj", "{EBCB632C-2F9F-49DF-AC18-6EF73899B3CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试专用3", "测试专用3\测试专用3.csproj", "{EBCB632C-2F9F-49DF-AC18-6EF73899B3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8_Dictionary", "Lesson8_Dictionary\Lesson8_Dictionary.csproj", "{30528AD8-EB42-420E-A67E-9DA4E9D3F421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8_Dictionary", "Lesson8_Dictionary\Lesson8_Dictionary.csproj", "{30528AD8-EB42-420E-A67E-9DA4E9D3F421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试专用4", "测试专用4\测试专用4.csproj", "{DEC42009-84D0-4EBB-9065-4A797D479D2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试专用4", "测试专用4\测试专用4.csproj", "{DEC42009-84D0-4EBB-9065-4A797D479D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_顺序存储和链式存储", "Lesson9_顺序存储和链式存储\Lesson9_顺序存储和链式存储.csproj", "{06F27F47-57CC-47B6-A3AE-379786AEDD1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC42009-84D0-4EBB-9065-4A797D479D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
