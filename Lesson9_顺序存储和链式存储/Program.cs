@@ -44,6 +44,8 @@ namespace Lesson9_顺序存储和链式存储
             }
             else
             {
+                //在这个else里，为什么直接可以用foot.xxx，因为这个链表如果增加过头部foot肯定是存在的了，
+                //最少的情况下也是food = head
                 foot.nextNode = node;
                 node.index = foot.index + 1;
                 node.lastNode = foot;
