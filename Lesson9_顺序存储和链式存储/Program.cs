@@ -148,6 +148,16 @@ namespace Lesson9_顺序存储和链式存储
                 Console.WriteLine("索引{0}", node.index);
                 node = node.nextNode;
             }
+
+            Console.WriteLine("反向遍历，详细数据如下，索引对照值-----------------");
+
+            node = link.foot;
+            while (node != null)
+            {
+                Console.Write("数据{0}", node.value);
+                Console.WriteLine("索引{0}", node.index);
+                node = node.lastNode;
+            }
         }
     }
 }

@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8_Dictionary", "Lesso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "测试专用4", "测试专用4\测试专用4.csproj", "{DEC42009-84D0-4EBB-9065-4A797D479D2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_顺序存储和链式存储", "Lesson9_顺序存储和链式存储\Lesson9_顺序存储和链式存储.csproj", "{06F27F47-57CC-47B6-A3AE-379786AEDD1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson9_顺序存储和链式存储", "Lesson9_顺序存储和链式存储\Lesson9_顺序存储和链式存储.csproj", "{06F27F47-57CC-47B6-A3AE-379786AEDD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10_Linkedlist", "Lesson10_Linkedlist\Lesson10_Linkedlist.csproj", "{5BB984E8-BDD7-4BAA-840A-13E4FFDB954F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06F27F47-57CC-47B6-A3AE-379786AEDD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB984E8-BDD7-4BAA-840A-13E4FFDB954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB984E8-BDD7-4BAA-840A-13E4FFDB954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB984E8-BDD7-4BAA-840A-13E4FFDB954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB984E8-BDD7-4BAA-840A-13E4FFDB954F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
