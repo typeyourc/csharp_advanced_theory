@@ -35,7 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson11_泛型栈和队列
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12_委托", "Lesson12_委托\Lesson12_委托.csproj", "{8DDECA39-02C5-4DBB-B2C8-9FCBC0283251}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson13_事件", "Lesson13_事件\Lesson13_事件.csproj", "{FCB47D79-21CA-4138-B8D4-52024F3F29F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13_事件", "Lesson13_事件\Lesson13_事件.csproj", "{FCB47D79-21CA-4138-B8D4-52024F3F29F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson14_匿名函数", "Lesson14_匿名函数\Lesson14_匿名函数.csproj", "{863E3974-C1DD-4219-AE39-9E7B6F06BEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15_lambad表达式", "Lesson14_lambad表达式\Lesson15_lambad表达式.csproj", "{3C8D5161-D9DD-4B61-BFE7-3EBCA303F8C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15_练习题", "Lesson15_练习题\Lesson15_练习题.csproj", "{D4BF43C5-F28D-4F1F-9E44-4DBEB399D90C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +117,18 @@ Global
 		{FCB47D79-21CA-4138-B8D4-52024F3F29F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB47D79-21CA-4138-B8D4-52024F3F29F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB47D79-21CA-4138-B8D4-52024F3F29F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863E3974-C1DD-4219-AE39-9E7B6F06BEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863E3974-C1DD-4219-AE39-9E7B6F06BEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863E3974-C1DD-4219-AE39-9E7B6F06BEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863E3974-C1DD-4219-AE39-9E7B6F06BEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8D5161-D9DD-4B61-BFE7-3EBCA303F8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8D5161-D9DD-4B61-BFE7-3EBCA303F8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8D5161-D9DD-4B61-BFE7-3EBCA303F8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8D5161-D9DD-4B61-BFE7-3EBCA303F8C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BF43C5-F28D-4F1F-9E44-4DBEB399D90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BF43C5-F28D-4F1F-9E44-4DBEB399D90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BF43C5-F28D-4F1F-9E44-4DBEB399D90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BF43C5-F28D-4F1F-9E44-4DBEB399D90C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
